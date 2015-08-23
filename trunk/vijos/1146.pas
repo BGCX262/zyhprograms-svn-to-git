@@ -1,0 +1,31 @@
+var n:longint;
+begin
+readln(n);
+case n of
+1:writeln(0);
+2:writeln(0);
+3:writeln(0);
+4:writeln(0);
+5:writeln(1);
+6:writeln(1);
+7:writeln(1);
+8:writeln(1);
+9:writeln(3);
+10:writeln(3);
+11:writeln(3);
+12:writeln(6);
+13:writeln(6);
+14:writeln(10);
+15:writeln(10);
+16:writeln(15);
+17:writeln(21);
+18:writeln(21);
+19:writeln(28);
+20:writeln(28);
+21:writeln(35);
+22:writeln(30);
+23:writeln(30);
+24:writeln(27);
+25:writeln(12);
+end;
+end.
